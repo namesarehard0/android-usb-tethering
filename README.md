@@ -4,7 +4,7 @@
 | --------------------------------------------------- | --------------- | -------- |
 | Google Pixel 6 and newer                            | Android 12+     | CDC NCM  |
 | Samsung Galaxy A16                                  | Android 15      | RNDIS    |
-| Samsung Galaxy S22 FE 5G                            | Android 16      | RNDIS    |
+| Samsung Galaxy S21 FE 5G                            | Android 16      | RNDIS    |
 | Samsung Galaxy S25                                  | Android 15      | RNDIS    |
 | Samsung Galaxy S25 FE                               | Android 16      | RNDIS    |
 | Xiaomi Redmi Note 13                                | Android 14      | RNDIS    |
